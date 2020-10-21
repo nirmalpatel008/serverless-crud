@@ -1,0 +1,15 @@
+{
+  "name": "slsguru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@serverless/enterprise-plugin": "^4.1.1",
+    "serverless-pseudo-parameters": "^2.5.0"
+  }
+}
